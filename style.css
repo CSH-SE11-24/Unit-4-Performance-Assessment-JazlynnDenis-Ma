@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+
+background-color: indianred !important; 
+}
+  /* changes all p elements to the specific font */
+p{
+  font-family: Kaushan Script;
+  
+/* makes only the p elements with this class this color */
+}
+.fw-bold{ 
+  color:#FDD017;
+    }
+
+.link-opacity-100{ 
+color:#FDD017;
+  } 
+
+/* added an additional id to override bootstrap styling */
+#addy{
+  background-color: indianred !important ;
+}
+
